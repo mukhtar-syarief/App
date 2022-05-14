@@ -1,0 +1,24 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+    float:right;
+    padding:33px 20px;
+  }
+  
+  /* Write your code below */
+  .header{
+    background-color:#26d0c9;
+    color:white;
+  }
+  .header-logo{
+    margin:20px 40px;
+    font-size:36px;
+    float:left;
+  }
+  .header-list{
+    height:90px;
+    
+  }
