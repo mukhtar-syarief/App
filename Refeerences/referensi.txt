@@ -1,0 +1,18 @@
+REFFERENSI
+
+
+===== HTML =====
+-- https://www.w3schools.com/html
+
+===== CSS =====
+-- https://www.w3schools.com/css/
+-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/  ##FLEXBOX
+-- https://hendky.com/belajar-css-flexbox/   ##FLEXBOX
+
+===== PYTHON =====
+-- https://www.w3schools.com/python/
+
+
+===== SQLLITE =====
+-- https://www.sqlitetutorial.net/sqlite-python/   
+-- https://docs.python.org/3/library/sqlite3.html  
