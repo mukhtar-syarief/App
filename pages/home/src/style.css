@@ -1,0 +1,60 @@
+:root{
+  --hard-blue:#7FB5FF;
+  --soft-blue:#C4DDFF;
+}
+body {
+  font-family: "Avenir Next";
+  background-image: url("https://img.freepik.com/free-vector/abstract-background-with-squares_23-2148995948.jpg?t=st=1652586909~exp=1652587509~hmac=e0b214b821d4baef38a1a54fd18e24f94425da7a4ed50fe36908a31c5eb86cb8&w=740") ;
+  background-size: cover;
+}
+
+.header{
+  background-color: var(--hard-blue) ;
+  color:white;
+  display: flex;
+}
+.header-logo{
+  margin:20px 40px;
+  font-size:36px;
+  float:left;
+}
+.header-list{
+  height:90px;
+}
+.header-list li {
+  list-style: none;
+  float:left;
+  padding:23px 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.main-content{
+  height: 600px;
+}
+.this-app{
+  float: left;
+  width: 300px;
+  margin: 100px 0 0 150px;
+  background-color: var(--soft-blue);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+.register{
+  border: 1px solid red;
+  background-image: ;
+  float: right;
+  margin: 100px 100px 0 0;
+  padding: 20px;
+  width: 300px;
+}
+.register p{
+  border: 1px solid red;
+  padding-right: 5px;
+}
+caption{
+  font-size: 28px;
+}
