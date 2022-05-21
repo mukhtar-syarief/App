@@ -7,7 +7,7 @@ Agus,2022-04-08 15:24:00.944117,minyak goreng,3
 Andi,2022-03-31 15:24:00.944117,Gamis Wanita,0
 Yuli,2022-04-06 15:24:00.944117,Baju Koko,3
 Yusron,2022-04-23 15:24:00.944117,Gamis Wanita,7
-Ade ,2022-04-23 15:24:00.944117,Baju Koko,6
+Ade,2022-04-23 15:24:00.944117,Baju Koko,6
 Karin,2022-04-21 15:24:00.944117,Gamis Wanita,12
 Karin,2022-04-09 15:24:00.944117,Baju Koko,9
 Maya,2022-04-10 15:24:00.944117,Gamis Wanita,17
@@ -37,7 +37,7 @@ Ulya,2022-04-15 15:24:00.944117,Gamis Wanita,11
 Karin,2022-04-19 15:24:00.944117,Baju Koko,0
 Umi,2022-04-16 15:24:00.944117,Baju Koko,13
 Aulia,2022-04-15 15:24:00.944117,Gamis Wanita,9
-Ade ,2022-04-09 15:24:00.944117,minyak goreng,20
+Ade,2022-04-09 15:24:00.944117,minyak goreng,20
 Mira,2022-04-18 15:24:00.944117,Gamis Wanita,15
 Yolanda,2022-04-17 15:24:00.944117,Gamis Wanita,2
 Yolanda,2022-04-08 15:24:00.944117,Gamis Wanita,9
